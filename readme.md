@@ -29,7 +29,7 @@ Notebooki:
     <li><code>Clustering_examples_new</code> - klastrowanie na podstawie ActivityValue </li>
 </ul>
 <h2>Uruchomienie</h2>
-Stwórz srodowisko:
+Stwórz środowisko:
 <code>conda env create -f environment.yml</code><br>
 Uruchom:
 <code>conda activate MLDD_Project</code>
