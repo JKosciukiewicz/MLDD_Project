@@ -15,11 +15,11 @@ Wyniki projektu pozwoliły na potwierdzenie postawionych hipotez:
 </ol>
 <h2>Zawartość</h2>
 <ul>
-    <li><code>chembl</code> - notebooki wykorzystywane do wyciągania danych z chembl do csv</li>
-    <li><code>outputs</code> - wyniki eksperymentów</li>
-    <li><code>data</code> - dane do eksperymentów </li>
-    <li><code>plots</code> - wykresy wygenerowane przez notebooki</li>
-    <li><code>slides</code> - prezentacje z przedmiotu </li>
+    <li><code>/data_helpers</code> - notebooki wykorzystywane do wyciągania danych baz chembl i pubchem</li>
+    <li><code>/outputs</code> - wyniki eksperymentów</li>
+    <li><code>/data</code> - dane do eksperymentów </li>
+    <li><code>/plots</code> - wykresy wygenerowane przez notebooki</li>
+    <li><code>/slides</code> - prezentacje z przedmiotu </li>
 </ul>
 Notebooki:
 <ul>
@@ -48,11 +48,11 @@ The results of the project allowed confirmation of the hypotheses set out:
 </ol>
 <h2>Contens:</h2>
 <ul>
-    <li><code>chembl</code> - notebooks used to extract data from chembl database</li>
-    <li><code>outputs</code> - outputs from experiments</li>
-    <li><code>data</code> - data dir for csv files </li>
-    <li><code>plots</code> - plots generated for experiments (used for slides only)</li>
-    <li><code>slides</code> - class presentations (in polish) </li>
+    <li><code>/data_helpers</code> - notebooks used to extract data from chembl and puchem databases</li>
+    <li><code>/outputs</code> - outputs from experiments</li>
+    <li><code>/data</code> - data dir for csv files </li>
+    <li><code>/plots</code> - plots generated for experiments (used for slides only)</li>
+    <li><code>/slides</code> - class presentations (in polish) </li>
 </ul>
 Notebooks:
 <ul>
