@@ -24,7 +24,7 @@ Wyniki projektu pozwoliły na potwierdzenie postawionych hipotez:
 Notebooki:
 <ul>
     <li><code>Clustering_examples</code> - klastrowanie na podstawie ModlecularWeight,XLogP,HBDonorCount,HBAcceptorCount.</li>
-    <li><code>Clustering_examples_8_compounds</code> - klastrowanie 8 związków na podstawie fingerprintów Morgana, pochodzenia kwasowosci i własności przeciwbólowych (test na 8 związkach).</li>
+    <li><code>Clustering_examples_8_compounds</code> - klastrowanie 8 związków na podstawie fingerprintów Morgana, pochodzenia, kwasowości i własności przeciwbólowych (test na 8 związkach).</li>
     <li><code>Clustering_examples_second_part</code> - j.w. ale na większym zbiorze związków</li>
     <li><code>Clustering_examples_new</code> - klastrowanie na podstawie ActivityValue </li>
 </ul>
