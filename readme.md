@@ -28,7 +28,11 @@ Notebooki:
     <li><code>Clustering_examples_second_part</code> - j.w. ale na większym zbiorze związków</li>
     <li><code>Clustering_examples_new</code> - klastrowanie na podstawie ActivityValue </li>
 </ul>
-
+<h2>Uruchomienie</h2>
+Stwórz srodowisko:
+<code>conda env create -f environment.yml</code><br>
+Uruchom:
+<code>conda activate MLDD_Project</code>
 <h1>EN</h1>
 <h2>Objectives:</h2>
 The aim of the project was to find interesting relationships in large
@@ -57,3 +61,8 @@ Notebooks:
     <li><code>Clustering_examples_second_part</code> - same experiment on larger dataset</li>
     <li><code>Clustering_examples_new</code> - clustering based on ActivityValue </li>
 </ul>
+<h2>How to run</h2>
+Create env:
+<code>conda env create -f environment.yml</code><br>
+Run env:
+<code>conda activate MLDD_Project</code>
